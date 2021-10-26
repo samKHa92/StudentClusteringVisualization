@@ -1,0 +1,8 @@
+I did it with 42 students and 6 groups to make visualization process shorter...
+If you check the code you will ensure that even if I did this exercise with 225 students and 15 groups, the results would be the same...
+
+My Approach is the following: I take all of 3 grades and sum them up. It is a “Normed Grade” of a student (I use one-norm).
+Then I create categories, for example: top students, mediums, low-graders. But the quantity of categories are depended on students and groups count.
+Then I put students from one category to the different groups, so that tops mediums and low-graders are mixed in one group.
+
+I am visualizing all these in my program.
